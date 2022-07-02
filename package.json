@@ -2,6 +2,9 @@
   "name": "catstronauts-client-complete",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "16.13"
+  },
   "description": "front-end demo app for Apollo's lift-off IV course",
   "dependencies": {
     "@apollo/client": "^3.3.6",
